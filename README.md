@@ -1,0 +1,1 @@
+A simple bot that tweets a warm welcome to your new follower.
